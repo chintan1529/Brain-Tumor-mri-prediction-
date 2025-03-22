@@ -14,16 +14,10 @@
 
 ---
 
-## 🚀 Live Demo  
-🔗 **Try it out:** [Your ngrok or LocalTunnel Link](https://your-app-link) *(Update this when deployed)*
+
 
 ---
 
-## 🛠 Installation & Setup  
 
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/your-username/brain-tumor-mri-classifier.git
-cd brain-tumor-mri-classifier
 
 
